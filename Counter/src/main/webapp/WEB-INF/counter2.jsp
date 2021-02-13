@@ -5,7 +5,7 @@
 <head>
 	<meta charset="UTF-8" />
 	<link href="<c:url value="/resources/css/main.css" />" rel="stylesheet">
-	<title>Display Date</title>
+	<title>Counter2</title>
 </head>
 <body>
 	<div id="wrapper">
